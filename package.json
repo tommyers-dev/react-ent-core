@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@rlean/utils": "^0.1.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "localforage": "^1.7.3",
     "regenerator-runtime": "^0.13.3"
   },
